@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+body{
+    background: rgb(0, 0, 0,0.5) url('/img/Netflix-Background.jpg');
+    background-blend-mode: darken;
+}
+
+.logo img{
+    width: 16%;
+    margin-left: 30px;
+}
+
+.form-wrapper {
+    position: absolute;
+    /*margin-left: 36%;*/
+    color: white;
+    width: 440px;
+    height: 590px;
+    background: #000000BF;
+    
+}
